@@ -1,17 +1,17 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "npy4th"
-version = "1.3-1"
+version = "1.3-3"
 
 -- LuaDist source
 source = {
-  tag = "1.3-1",
+  tag = "1.3-3",
   url = "git://github.com/LuaDist-testing/npy4th.git"
 }
 -- Original source
 -- source = {
 --    url = "git://github.com/htwaijry/npy4th",
---    tag = "1.3-1"
+--    tag = "1.3-3"
 -- }
 
 description = {
