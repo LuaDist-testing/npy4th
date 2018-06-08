@@ -1,23 +1,23 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "npy4th"
-version = "1.2-0"
+version = "1.3-0"
 
 -- LuaDist source
 source = {
-  tag = "1.2-0",
+  tag = "1.3-0",
   url = "git://github.com/LuaDist-testing/npy4th.git"
 }
 -- Original source
 -- source = {
 --    url = "git://github.com/htwaijry/npy4th",
---    tag = "1.2-0"
+--    tag = "1.3-0"
 -- }
 
 description = {
-   summary = "A Numpy format loader for Torch",
+   summary = "A Numpy format I/O library for Torch",
    detailed = [[
-      Load .npy and .npz files into torch.
+      Load .npy and .npz files into torch, and save torch.*Tensor into .npy files.
    ]],
    homepage = "git://github.com/htwaijry/npy4th",
    license = "MIT"
